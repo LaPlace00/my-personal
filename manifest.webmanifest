@@ -7,9 +7,9 @@
   "description": "My first PWA",
   "icons": [
     {
-      "src": "picture/512.jpg",
+      "src": "picture/512.png",
       "sizes": "512x512",
-      "type": "picture/jpg"
+      "type": "picture/png"
     },
     {
       "src": "picture/192.png",
