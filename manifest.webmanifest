@@ -1,5 +1,5 @@
 {
-  "name": "My Portfolio",
+  "name": "Mobile Computing",
   "short_name": "PWA",
   "start_url": ".",
   "display": "standalone",
@@ -9,13 +9,14 @@
     {
       "src": "picture/512.png",
       "sizes": "512x512",
-      "type": "picture/png"
+      "type": "image/png"
     },
     {
       "src": "picture/192.png",
       "sizes": "192x192",
-      "type": "picture/png"
+      "type": "image/png"
     }
   ]
 }
+
 
